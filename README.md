@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hcondegar
-- 👀 I'm passionate about technology and innovation.
+- 👀 Passionate about technology.
 - 🌱 I’m currently learning Typescript & Swift.
 
 <!---
