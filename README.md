@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at @Amazon as Process Control Specialist.<br>👯 I’m looking to collaborate on projects to continue learning<br>🌱 I’m currently learning Swift!
+🔭 I’m currently working at Amazon as Process Control Specialist.<br>👯 I’m looking to collaborate on projects to continue learning<br>🌱 I’m currently learning Swift!
 
 
 ## 🌐 Socials:
